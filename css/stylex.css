@@ -10,3 +10,13 @@ body {
     width: 100%;
     border: solid 1px white;
 }
+
+.cabecera {
+    box-sizing: content-box;
+    background-color: #fff;
+    color: black;
+}
+
+.cabecera h1 {
+    margin: 0;
+}
