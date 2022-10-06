@@ -7,15 +7,17 @@ body {
 
 .container {
     margin: 0 auto;
-    width: 100%;
-    border: solid 1px white;
-    background-color: rosybrown;
+    width: 50%;
+    border: solid 1px rgb(0, 0, 0);
+    background-color: rgb(0, 132, 255);
+    border-radius: 20px;
 }
 
 .cabecera {
     box-sizing: content-box;
-    background-color: #fff;
-    color: black;
+    background-color: rgb(156, 88, 245);
+    color: white;
+    border-radius: 20px 20px 0 0;
 }
 
 .cabecera h1 {
