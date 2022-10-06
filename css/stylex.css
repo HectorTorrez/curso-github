@@ -30,3 +30,10 @@ body {
     width: 50%;
     margin: 0 auto;
 }
+
+.footer {
+    padding: 1rem;
+    background-color: aqua;
+    color: #000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
